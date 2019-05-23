@@ -15,6 +15,7 @@
 			"homepage": "http://noahbuscher.com/"
 		}
 	],
+
 	"require": {
 		"php": ">=5.3.3"
 	},
