@@ -25,5 +25,6 @@
 	},
 	"autoload": {
 		"psr-4": { "NoahBuscher\\Macaw\\": "./" }
-	}
+	},
+   "minimum-stability": "dev"
 }
